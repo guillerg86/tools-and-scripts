@@ -70,3 +70,6 @@ do
 done
 
 echo "YA PUEDE RETIRAR EL DISPOSITIVO"
+beep
+beep
+beep
